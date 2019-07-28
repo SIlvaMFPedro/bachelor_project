@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: a8fafe30d3ea53a4ca84cac3e50228ac
+timeCreated: 1491343174
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arm_elbow_IK.L
+    100002: arm_elbow_IK.L_end
+    100004: arm_elbow_IK.R
+    100006: arm_elbow_IK.R_end
+    100008: arm_IK.L
+    100010: arm_IK.L_end
+    100012: arm_IK.R
+    100014: arm_IK.R_end
+    100016: arm_lower.L
+    100018: arm_lower.R
+    100020: arm_upper.L
+    100022: arm_upper.R
+    100024: Armature
+    100026: Character
+    100028: foot.L
+    100030: foot.R
+    100032: hand.L
+    100034: hand.L_end
+    100036: hand.R
+    100038: hand.R_end
+    100040: head
+    100042: head_end
+    100044: hips
+    100046: hips_root
+    100048: //RootNode
+    100050: leg_IK.L
+    100052: leg_IK.L_end
+    100054: leg_IK.R
+    100056: leg_IK.R_end
+    100058: leg_knee_IK.L
+    100060: leg_knee_IK.L_end
+    100062: leg_knee_IK.R
+    100064: leg_knee_IK.R_end
+    100066: leg_lower.L
+    100068: leg_lower.R
+    100070: leg_upper.L
+    100072: leg_upper.R
+    100074: neck
+    100076: root
+    100078: shoulder.L
+    100080: shoulder.R
+    100082: spine.01
+    100084: spine.02
+    100086: toe.L
+    100088: toe.L_end
+    100090: toe.R
+    100092: toe.R_end
+    400000: arm_elbow_IK.L
+    400002: arm_elbow_IK.L_end
+    400004: arm_elbow_IK.R
+    400006: arm_elbow_IK.R_end
+    400008: arm_IK.L
+    400010: arm_IK.L_end
+    400012: arm_IK.R
+    400014: arm_IK.R_end
+    400016: arm_lower.L
+    400018: arm_lower.R
+    400020: arm_upper.L
+    400022: arm_upper.R
+    400024: Armature
+    400026: Character
+    400028: foot.L
+    400030: foot.R
+    400032: hand.L
+    400034: hand.L_end
+    400036: hand.R
+    400038: hand.R_end
+    400040: head
+    400042: head_end
+    400044: hips
+    400046: hips_root
+    400048: //RootNode
+    400050: leg_IK.L
+    400052: leg_IK.L_end
+    400054: leg_IK.R
+    400056: leg_IK.R_end
+    400058: leg_knee_IK.L
+    400060: leg_knee_IK.L_end
+    400062: leg_knee_IK.R
+    400064: leg_knee_IK.R_end
+    400066: leg_lower.L
+    400068: leg_lower.R
+    400070: leg_upper.L
+    400072: leg_upper.R
+    400074: neck
+    400076: root
+    400078: shoulder.L
+    400080: shoulder.R
+    400082: spine.01
+    400084: spine.02
+    400086: toe.L
+    400088: toe.L_end
+    400090: toe.R
+    400092: toe.R_end
+    4300000: Character
+    9500000: //RootNode
+    13700000: Character
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

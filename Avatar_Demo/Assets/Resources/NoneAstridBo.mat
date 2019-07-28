@@ -1,0 +1,403 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: NoneAstridBo
+  m_Shader: {fileID: 2, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _Albedo
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _AlphaMask
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _BumpMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DecalTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DetailAlbedoMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DetailMask
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DetailNormalMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _EmissionMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _LayerSurface0
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _LayerSurface1
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _LayerSurface2
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _LayerSurface3
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _LayerSurface4
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _LayerSurface5
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _LayerSurface6
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _LayerSurface7
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MetallicGlossMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _NormalMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _OcclusionMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _ParallaxMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _RoughnessMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Surface
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _Alpha
+      second: 1
+    - first:
+        name: _BaseMaskType
+      second: 0
+    - first:
+        name: _BumpScale
+      second: 1
+    - first:
+        name: _Cutoff
+      second: 0.5
+    - first:
+        name: _DetailNormalMapScale
+      second: 1
+    - first:
+        name: _DstBlend
+      second: 0
+    - first:
+        name: _GlossMapScale
+      second: 1
+    - first:
+        name: _Glossiness
+      second: 0.5
+    - first:
+        name: _GlossyReflections
+      second: 1
+    - first:
+        name: _LayerBlendMode0
+      second: 0
+    - first:
+        name: _LayerBlendMode1
+      second: 0
+    - first:
+        name: _LayerBlendMode2
+      second: 0
+    - first:
+        name: _LayerBlendMode3
+      second: 0
+    - first:
+        name: _LayerBlendMode4
+      second: 0
+    - first:
+        name: _LayerBlendMode5
+      second: 0
+    - first:
+        name: _LayerBlendMode6
+      second: 0
+    - first:
+        name: _LayerBlendMode7
+      second: 0
+    - first:
+        name: _LayerMaskType0
+      second: 0
+    - first:
+        name: _LayerMaskType1
+      second: 0
+    - first:
+        name: _LayerMaskType2
+      second: 0
+    - first:
+        name: _LayerMaskType3
+      second: 0
+    - first:
+        name: _LayerMaskType4
+      second: 0
+    - first:
+        name: _LayerMaskType5
+      second: 0
+    - first:
+        name: _LayerMaskType6
+      second: 0
+    - first:
+        name: _LayerMaskType7
+      second: 0
+    - first:
+        name: _LayerSampleMode0
+      second: 0
+    - first:
+        name: _LayerSampleMode1
+      second: 0
+    - first:
+        name: _LayerSampleMode2
+      second: 0
+    - first:
+        name: _LayerSampleMode3
+      second: 0
+    - first:
+        name: _LayerSampleMode4
+      second: 0
+    - first:
+        name: _LayerSampleMode5
+      second: 0
+    - first:
+        name: _LayerSampleMode6
+      second: 0
+    - first:
+        name: _LayerSampleMode7
+      second: 0
+    - first:
+        name: _Metallic
+      second: 0
+    - first:
+        name: _Mode
+      second: 0
+    - first:
+        name: _OcclusionStrength
+      second: 1
+    - first:
+        name: _Parallax
+      second: 0.02
+    - first:
+        name: _Shininess
+      second: 0.078125
+    - first:
+        name: _SmoothnessTextureChannel
+      second: 0
+    - first:
+        name: _SpecularHighlights
+      second: 1
+    - first:
+        name: _SrcBlend
+      second: 1
+    - first:
+        name: _UVSec
+      second: 0
+    - first:
+        name: _WireThickness
+      second: 100
+    - first:
+        name: _ZWrite
+      second: 1
+    m_Colors:
+    - first:
+        name: _BaseColor
+      second: {r: 0, g: 0, b: 0, a: 0}
+    - first:
+        name: _BaseMaskAxis
+      second: {r: 0, g: 1, b: 0, a: 0}
+    - first:
+        name: _BaseMaskParameters
+      second: {r: 0, g: 0, b: 0, a: 0}
+    - first:
+        name: _Color
+      second: {r: 0.8, g: 0.8, b: 0.8, a: 1}
+    - first:
+        name: _EmissionColor
+      second: {r: 0, g: 0, b: 0, a: 1}
+    - first:
+        name: _LayerColor0
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _LayerColor1
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _LayerColor2
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _LayerColor3
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _LayerColor4
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _LayerColor5
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _LayerColor6
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _LayerColor7
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _LayerMaskAxis0
+      second: {r: 0, g: 1, b: 0, a: 0}
+    - first:
+        name: _LayerMaskAxis1
+      second: {r: 0, g: 1, b: 0, a: 0}
+    - first:
+        name: _LayerMaskAxis2
+      second: {r: 0, g: 1, b: 0, a: 0}
+    - first:
+        name: _LayerMaskAxis3
+      second: {r: 0, g: 1, b: 0, a: 0}
+    - first:
+        name: _LayerMaskAxis4
+      second: {r: 0, g: 1, b: 0, a: 0}
+    - first:
+        name: _LayerMaskAxis5
+      second: {r: 0, g: 1, b: 0, a: 0}
+    - first:
+        name: _LayerMaskAxis6
+      second: {r: 0, g: 1, b: 0, a: 0}
+    - first:
+        name: _LayerMaskAxis7
+      second: {r: 0, g: 1, b: 0, a: 0}
+    - first:
+        name: _LayerMaskParameters0
+      second: {r: 0, g: 0, b: 0, a: 0}
+    - first:
+        name: _LayerMaskParameters1
+      second: {r: 0, g: 0, b: 0, a: 0}
+    - first:
+        name: _LayerMaskParameters2
+      second: {r: 0, g: 0, b: 0, a: 0}
+    - first:
+        name: _LayerMaskParameters3
+      second: {r: 0, g: 0, b: 0, a: 0}
+    - first:
+        name: _LayerMaskParameters4
+      second: {r: 0, g: 0, b: 0, a: 0}
+    - first:
+        name: _LayerMaskParameters5
+      second: {r: 0, g: 0, b: 0, a: 0}
+    - first:
+        name: _LayerMaskParameters6
+      second: {r: 0, g: 0, b: 0, a: 0}
+    - first:
+        name: _LayerMaskParameters7
+      second: {r: 0, g: 0, b: 0, a: 0}
+    - first:
+        name: _LayerSampleParameters0
+      second: {r: 0, g: 0, b: 0, a: 0}
+    - first:
+        name: _LayerSampleParameters1
+      second: {r: 0, g: 0, b: 0, a: 0}
+    - first:
+        name: _LayerSampleParameters2
+      second: {r: 0, g: 0, b: 0, a: 0}
+    - first:
+        name: _LayerSampleParameters3
+      second: {r: 0, g: 0, b: 0, a: 0}
+    - first:
+        name: _LayerSampleParameters4
+      second: {r: 0, g: 0, b: 0, a: 0}
+    - first:
+        name: _LayerSampleParameters5
+      second: {r: 0, g: 0, b: 0, a: 0}
+    - first:
+        name: _LayerSampleParameters6
+      second: {r: 0, g: 0, b: 0, a: 0}
+    - first:
+        name: _LayerSampleParameters7
+      second: {r: 0, g: 0, b: 0, a: 0}
+    - first:
+        name: _SpecColor
+      second: {r: 0.5, g: 0.5, b: 0.5, a: 1}
