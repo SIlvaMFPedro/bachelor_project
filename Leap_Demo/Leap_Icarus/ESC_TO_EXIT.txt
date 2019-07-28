@@ -1,0 +1,1 @@
+Tecla "Esc" para fechar o programa.

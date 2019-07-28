@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "end", "end.csproj", "{522C8E34-3E11-99EC-97A3-B2C98255E342}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "end.Editor", "end.Editor.csproj", "{EF32A3DF-1EB8-588F-2B8A-A579070A3F1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{522C8E34-3E11-99EC-97A3-B2C98255E342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522C8E34-3E11-99EC-97A3-B2C98255E342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522C8E34-3E11-99EC-97A3-B2C98255E342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522C8E34-3E11-99EC-97A3-B2C98255E342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF32A3DF-1EB8-588F-2B8A-A579070A3F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF32A3DF-1EB8-588F-2B8A-A579070A3F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF32A3DF-1EB8-588F-2B8A-A579070A3F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF32A3DF-1EB8-588F-2B8A-A579070A3F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
