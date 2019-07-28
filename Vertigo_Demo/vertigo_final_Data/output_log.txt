@@ -1,0 +1,49 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c60)
+    Vendor:   NVIDIA
+    VRAM:     6084 MB
+    Driver:   22.21.13.8189
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Luis\Universidade\PEI\Vertigo_demo\vertigo_final_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Luis\Universidade\PEI\Vertigo_demo\vertigo_final_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Luis\Universidade\PEI\Vertigo_demo\vertigo_final_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Luis\Universidade\PEI\Vertigo_demo\vertigo_final_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Luis\Universidade\PEI\Vertigo_demo\vertigo_final_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Luis\Universidade\PEI\Vertigo_demo\vertigo_final_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Luis\Universidade\PEI\Vertigo_demo\vertigo_final_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Luis\Universidade\PEI\Vertigo_demo\vertigo_final_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Luis\Universidade\PEI\Vertigo_demo\vertigo_final_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading D:\Luis\Universidade\PEI\Vertigo_demo\vertigo_final_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+- Completed reload, in  0.250 seconds
+Platform assembly: D:\Luis\Universidade\PEI\Vertigo_demo\vertigo_final_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Luis\Universidade\PEI\Vertigo_demo\vertigo_final_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 75Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'WaterBasicDaytime') is missing!
+ 
+(Filename:  Line: 1743)
+
+UnloadTime: 1.576299 ms
+Unity v5.6.1f1, Oculus Utilities v1.13.0, OVRPlugin v1.13.0, SDK v0.0.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NuiInitialize Failed - Device is not connected.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+System.Exception: NuiInitialize Failed
+  at KinectManager.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2ed4 -> priority: 1 
+  Thread -> id: 2e9c -> priority: 1 
+  Thread -> id: 40c0 -> priority: 1 
+  Thread -> id: df4 -> priority: 1 
