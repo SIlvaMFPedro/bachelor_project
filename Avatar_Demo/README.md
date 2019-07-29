@@ -10,4 +10,8 @@ Here is the Blender Tutorial that was used to create the 3D Avatar model with it
 ![ss01](./images/blender_intro_character_rigging_ss01.jpg "ss01")
 ![ss02](./images/blender_intro_character_rigging_ss02.jpg "ss02")
 
+# Results
+Here are some of the results
+
+[![Watch the video](./images/thumbnail_avatar.webq)](https://www.youtube.com/embed/videoseries?list=PLA2mbqwGMhjMDcquohgzP165UEVfhtqJY)
 
