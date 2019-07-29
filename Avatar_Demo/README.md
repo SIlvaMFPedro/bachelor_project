@@ -13,5 +13,5 @@ Here is the Blender Tutorial that was used to create the 3D Avatar model with it
 # Results
 Here are some of the results
 
-[![Watch the video](./images/thumbnail_avatar.webq)](https://www.youtube.com/embed/videoseries?list=PLA2mbqwGMhjMDcquohgzP165UEVfhtqJY)
+[![Watch the video](./images/thumbnail_avatar_demo.jpg)](https://www.youtube.com/embed/videoseries?list=PLA2mbqwGMhjMDcquohgzP165UEVfhtqJY)
 
