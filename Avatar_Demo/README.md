@@ -4,7 +4,7 @@ The purpose of this demo was to create an avatar that would mimic the movements 
 # Tutorial
 Here is the Blender Tutorial that was used to create the 3D Avatar model with its own skeleton.
 
-[![Watch the video](./images/thumbnail_blender_tutorial.jpg)](https://www.youtube.com/embed/watch?v=7KHd1FSg3wo&feature=youtu.be)
+[![Watch the video](./images/thumbnail_blender_tutorial.jpg)](https://youtu.be/7KHd1FSg3wo)
 
 ![blender_feature](./images/blender_intro_character_rigging_feature.jpg "feature")
 ![ss01](./images/blender_intro_character_rigging_ss01.jpg "ss01")
